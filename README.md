@@ -24,9 +24,11 @@ If you want to make your self, just download the gerber file in production folde
 | 3 | SMD LED 0805 | |
 | 1 | Schottky Diode 1N5819HW | |
 
-!<img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/0cee6626-4e0b-4d04-bf8a-30e3e52d6e20.jpg" width=400> 
-!<img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/560549d7-d495-413d-a784-35417a159ad9.jpg" width=400> 
-!<img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/1244e61b-8b12-4fa8-89a3-6300f83756bb.jpg" width=400>
+<p float="left">
+<img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/0cee6626-4e0b-4d04-bf8a-30e3e52d6e20.jpg" width=400 /> 
+<img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/560549d7-d495-413d-a784-35417a159ad9.jpg" width=400 /> 
+<img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/1244e61b-8b12-4fa8-89a3-6300f83756bb.jpg" width=805 />
+</p>
 
 PCB files for the ESP32-Cam Programmer is Autodesk EagleCAD both schematic and board layout
 
