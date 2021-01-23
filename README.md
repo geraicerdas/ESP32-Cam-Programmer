@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/geraicerdas/ESP32-Cam-Programmer/total?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/geraicerdas/ESP32-Cam-Programmer/total.svg)
 
 ### Repository Content
 * **/hardware** : Eagle design files (.sch and .brd)
