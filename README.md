@@ -1,3 +1,7 @@
+### Repository Content
+* **/hardware** : Eagle design files (.sch and .brd)
+* **/production** : gerber file for pcb manufacturing
+
 # ESP32-Cam-Programmer
 This is external programming for ESP32-Cam that you can simple attach it for easy upload your code to ESP32-Cam.
 
@@ -29,8 +33,6 @@ If you want to make your self, just download the gerber file in production folde
 <img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/560549d7-d495-413d-a784-35417a159ad9.jpg" width=400 /> 
 <img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/1244e61b-8b12-4fa8-89a3-6300f83756bb.jpg" width=805 />
 </p>
-
-PCB files for the ESP32-Cam Programmer is Autodesk EagleCAD both schematic and board layout
 
 ## License
 *We invests time and resources providing this open-source hardware, please support us by purchasing our products.*
