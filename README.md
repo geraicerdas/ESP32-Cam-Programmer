@@ -6,7 +6,7 @@
 This is external programming for ESP32-Cam that you can simple attach it for easy upload your code to ESP32-Cam.
 
 You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)](https://www.tokopedia.com/geraicerdas/esp32-cam-programmer-ai-thinker-esp32-s-camera-5v-serial-converter-module-only) 
-[![Generic badge](https://img.shields.io/badge/Worldwide-Unavailable-red.svg)](https://geraicerdas.com)
+[![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-red.svg)](https://www.tindie.com/products/geraicerdas/esp32-cam-programmer/)
 
 
 If you want to make your self, just download the gerber file in production folder. Send it to your fav pcb manufacturer. And dont forget to get the Bill of materials :
