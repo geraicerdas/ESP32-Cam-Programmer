@@ -24,8 +24,8 @@ The latest version have several changes :
 If you want to make your self, just download the gerber file in production folder. Send it to your fav pcb manufacturer. And dont forget to get the Bill of materials :
 |Qty | Part Name | Parts | MPN |
 | ------------- |:-------------|:-------------| -----:|
-| 2 | Female Header 8P 2.54mm pitch | J2, J3 | |
-| 2 | Male Header 8P 2.54mm pitch | J5 | |
+| 2 | Female Header 8P 2.54mm pitch | J5 | X6511FV-08-C85D32 |
+| 2 | Male Header 8P 2.54mm pitch | J2, J3 | X4611WRS-08I-C40D28 |
 | 1 | USB type C Connector 16P | J4 | U262-161N-4BVC11 |
 | 1 | CH340G/CH340C | U1 | CH340G |
 | 1 | SMD Resonator 12MHz CSTCE | X1 | CSTCE12M0G15C99-R0 |
@@ -40,8 +40,8 @@ If you want to make your self, just download the gerber file in production folde
 | 2 | Transistor S8050 | Q2, Q3 | S8050 |
 | 2 | Slide Switch AYZ0202W | SW | SS-3390S-L2 |
 | 2 | Push Button YD3414 | S1, S2 | TS-1186U-B-A |
-| 2 | SMD LED 0805 Red | RX, TX | |
-| 1 | SMD LED 0805 Green | PWR | |
+| 2 | SMD LED 0805 Red | RX, TX | 17-21/R6C-AQ2R2B/3T |
+| 1 | SMD LED 0805 Green | PWR | 17-21/GHC-YR1S2/3T |
 | 1 | Schottky Diode 1N5819HW | D1 | 1N5819WS |
 
 Below is the first version of ESP32-Cam Programmer. We keep this for your references.
