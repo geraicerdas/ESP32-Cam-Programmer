@@ -2,11 +2,11 @@
 * **/hardware** : Schematic files (.pdf) some of older version included Eagle design files (.sch and .brd)
 * **/production** : gerber file for pcb manufacturing
 
-# ESP32-Cam-Programmer
-This is external programming for ESP32-Cam that you can simple attach it for easy upload your code to ESP32-Cam. Keep the slide switch at 3.3V so it is not harmful for your ESP32-Cam. ESP32-Cam programmer also have a breakout pins that makes it easier for you to connect the I/O pins of the ESP32-Cam to other circuits (no need breadboard). Not only for ESP32-Cam, you can use this board to program another MCU's like Arduino Pro mini that need USB to Serial Converter
-
 You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)](https://www.tokopedia.com/geraicerdas/esp32-cam-programmer-ai-thinker-esp32-s-camera-5v-serial-converter-module-only) 
 [![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-red.svg)](https://www.tindie.com/products/geraicerdas/esp32-cam-programmer/)
+
+# ESP32-Cam-Programmer
+This is external programming for ESP32-Cam that you can simple attach it for easy upload your code to ESP32-Cam. Keep the slide switch at 3.3V so it is not harmful for your ESP32-Cam. ESP32-Cam programmer also have a breakout pins that makes it easier for you to connect the I/O pins of the ESP32-Cam to other circuits (no need breadboard). Not only for ESP32-Cam, you can use this board to program another MCU's like Arduino Pro mini that need USB to Serial Converter
 
 The latest version have several changes :
 - Added a 3V3 Voltage Regulator
