@@ -26,23 +26,23 @@ If you want to make your self, just download the gerber file in production folde
 | ------------- |:-------------|:-------------| -----:|
 | 2 | Female Header 8P 2.54mm pitch | J2, J3 | |
 | 2 | Male Header 8P 2.54mm pitch | J5 | |
-| 1 | USB type C Connector 16P | J4 | |
-| 1 | CH340G/CH340C | U1 | |
-| 1 | SMD Resonator 12MHz CSTCE | X1 | |
-| 1 | AP2112K-3.3TRG1 | U2 | |
-| 1 | Chip Resistor 0 0805 | R10, R11 | |
-| 3 | Chip Resistor 1K 0603 | R4, R6, R7 | |
-| 3 | Chip Resistor 10K 0603 | R1, R2, R3 | |
-| 2 | Chip Resistor 4K7 0603 | R8, R9 | |
-| 5 | Chip Capacitor 100nF 0603 | C3, C5, C6, C8, C21 | |
-| 3 | Chip Capacitor 10uF 0603 | C2, C4, C7 | |
-| 1 | N-Channel MOSFET AO3400 | Q1 | |
-| 2 | Transistor S8050 | Q2, Q3 | |
-| 2 | Slide Switch AYZ0202W | SW | |
-| 2 | Push Button YD3414 | S1, S2 | |
+| 1 | USB type C Connector 16P | J4 | U262-161N-4BVC11 |
+| 1 | CH340G/CH340C | U1 | CH340G |
+| 1 | SMD Resonator 12MHz CSTCE | X1 | CSTCE12M0G15C99-R0 |
+| 1 | AP2112K-3.3TRG1 | U2 | AP2112K-3.3TRG1 |
+| 1 | Chip Resistor 0 0805 | R10, R11 | 0805W8F0000T5E |
+| 3 | Chip Resistor 1K 0603 | R4, R6, R7 | 0603WAF1001T5E |
+| 3 | Chip Resistor 10K 0603 | R1, R2, R3 | 0603WAF1002T5E |
+| 2 | Chip Resistor 4K7 0603 | R8, R9 | 0603WAF4701T5E |
+| 5 | Chip Capacitor 100nF 0603 | C3, C5, C6, C8, C21 | CL10B104KB8NNNC |
+| 3 | Chip Capacitor 10uF 0603 | C2, C4, C7 | CL10A106KP8NNNC |
+| 1 | N-Channel MOSFET AO3400 | Q1 | AO3400 |
+| 2 | Transistor S8050 | Q2, Q3 | S8050 |
+| 2 | Slide Switch AYZ0202W | SW | SS-3390S-L2 |
+| 2 | Push Button YD3414 | S1, S2 | TS-1186U-B-A |
 | 2 | SMD LED 0805 Red | RX, TX | |
 | 1 | SMD LED 0805 Green | PWR | |
-| 1 | Schottky Diode 1N5819HW | D1 | |
+| 1 | Schottky Diode 1N5819HW | D1 | 1N5819WS |
 
 Below is the first version of ESP32-Cam Programmer. We keep this for your references.
 
