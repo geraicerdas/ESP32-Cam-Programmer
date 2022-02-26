@@ -1,5 +1,5 @@
 ### Repository Content
-* **/hardware** : Eagle design files (.sch and .brd)
+* **/hardware** : Schematic files (.pdf) some of older version included Eagle design files (.sch and .brd)
 * **/production** : gerber file for pcb manufacturing
 
 # ESP32-Cam-Programmer
@@ -8,27 +8,41 @@ This is external programming for ESP32-Cam that you can simple attach it for eas
 You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)](https://www.tokopedia.com/geraicerdas/esp32-cam-programmer-ai-thinker-esp32-s-camera-5v-serial-converter-module-only) 
 [![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-red.svg)](https://www.tindie.com/products/geraicerdas/esp32-cam-programmer/)
 
+The latest version have several changes :
+- Add a 3V3 Regulator
+- Working voltage switch (5V or 3V3)
+- Compatible with both older or newer ESP32-Cam
+- changes PCB shapes and color
+
+<p float="left">
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/ced4d599-39a8-4006-b4e8-bedb4a3bbb8b.jpg" width=400 /> 
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/1f761d49-8080-4828-abe8-a921d91b518c.jpg" width=400 /> 
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/b6bc6f3f-a4ee-471e-a235-99eecc138935.jpg" width=805 />
+</p>
+
 
 If you want to make your self, just download the gerber file in production folder. Send it to your fav pcb manufacturer. And dont forget to get the Bill of materials :
-|Qty | Part Name | MPN |
-| ------------- |:-------------| -----:|
-| 2 | Female Header 8P 2.54mm pitch | |
-| 2 | Male Header 8P 2.54mm pitch | |
-| 1 | USB type C Connector 16P | |
-| 1 | CH340G | |
-| 1 | Chip Resistor 1M 0603 | |
-| 2 | Chip Resistor 1K 0603 | |
-| 2 | Chip Resistor 330 0603 | |
-| 2 | Chip Resistor 5K1 0603 | |
-| 2 | Chip Capacitor 10pF 0603 | |
-| 2 | Chip Capacitor 100nF 0603 | |
-| 1 | Chip Capacitor 10nF 0603 | |
-| 1 | Chip Capacitor 10uF 0603 | |
-| 1 | N-Channel MOSFET AO3400 | |
-| 2 | Transistor S8050 | |
-| 2 | Tactile Switch 3x4x2.5mm | |
-| 3 | SMD LED 0805 | |
-| 1 | Schottky Diode 1N5819HW | |
+|Qty | Part Name | Parts | MPN |
+| ------------- |:-------------|:-------------| -----:|
+| 2 | Female Header 8P 2.54mm pitch | J2, J3 | |
+| 2 | Male Header 8P 2.54mm pitch | J5 | |
+| 1 | USB type C Connector 16P | J4 | |
+| 1 | CH340G/CH340C | U1 | |
+| 1 | SMD Resonator 12MHz CSTCE | X1 | |
+| 1 | AP2112K-3.3TRG1 | U2 | |
+| 1 | Chip Resistor 0 0805 | R10, R11 | |
+| 3 | Chip Resistor 1K 0603 | R4, R6, R7 | |
+| 3 | Chip Resistor 10K 0603 | R1, R2, R3 | |
+| 2 | Chip Resistor 4K7 0603 | R8, R9 | |
+| 5 | Chip Capacitor 100nF 0603 | C3, C5, C6, C8, C21 | |
+| 3 | Chip Capacitor 10uF 0603 | C2, C4, C7 | |
+| 1 | N-Channel MOSFET AO3400 | Q1 | |
+| 2 | Transistor S8050 | Q2, Q3 | |
+| 2 | Slide Switch AYZ0202W | SW | |
+| 2 | Push Button YD3414 | S1, S2 | |
+| 2 | SMD LED 0805 Red | RX, TX | |
+| 1 | SMD LED 0805 Green | PWR | |
+| 1 | Schottky Diode 1N5819HW | D1 | |
 
 <p float="left">
 <img src="https://ecs7.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/0cee6626-4e0b-4d04-bf8a-30e3e52d6e20.jpg" width=400 /> 
