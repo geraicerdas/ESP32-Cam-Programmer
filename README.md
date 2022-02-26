@@ -3,21 +3,21 @@
 * **/production** : gerber file for pcb manufacturing
 
 # ESP32-Cam-Programmer
-This is external programming for ESP32-Cam that you can simple attach it for easy upload your code to ESP32-Cam.
+This is external programming for ESP32-Cam that you can simple attach it for easy upload your code to ESP32-Cam. Keep the slide switch at 3.3V so it is not harmful for your ESP32-Cam. ESP32-Cam programmer also have a breakout pins that makes it easier for you to connect the I/O pins of the ESP32-Cam to other circuits (no need breadboard). Not only for ESP32-Cam, you can use this board to program another MCU's like Arduino Pro mini that need USB to Serial Converter
 
 You can purchase this product from [![Generic badge](https://img.shields.io/badge/Indonesia-Tokopedia-<COLOR>.svg)](https://www.tokopedia.com/geraicerdas/esp32-cam-programmer-ai-thinker-esp32-s-camera-5v-serial-converter-module-only) 
 [![Generic badge](https://img.shields.io/badge/Worldwide-Tindie-red.svg)](https://www.tindie.com/products/geraicerdas/esp32-cam-programmer/)
 
 The latest version have several changes :
-- Add a 3V3 Regulator
-- Working voltage switch (5V or 3V3)
+- Added a 3V3 Voltage Regulator
+- Added voltage selector switch (5V or 3.3V compatible)
 - Compatible with both older or newer ESP32-Cam
-- changes PCB shapes and color
+- changes PCB shape and color
 
 <p float="left">
-<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/ced4d599-39a8-4006-b4e8-bedb4a3bbb8b.jpg" width=400 /> 
 <img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/1f761d49-8080-4828-abe8-a921d91b518c.jpg" width=400 /> 
-<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/b6bc6f3f-a4ee-471e-a235-99eecc138935.jpg" width=805 />
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/b6bc6f3f-a4ee-471e-a235-99eecc138935.jpg" width=400 />
+<img src="https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/21/ced4d599-39a8-4006-b4e8-bedb4a3bbb8b.jpg" width=805 /> 
 </p>
 
 
