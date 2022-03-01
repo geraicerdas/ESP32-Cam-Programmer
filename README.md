@@ -55,4 +55,4 @@ Below is the first version of ESP32-Cam Programmer. We keep this for your refere
 ## License
 *We invests time and resources providing this open-source hardware, please support us by purchasing our products.*
 
-*Designed by **[Insan Sains](https://www.youtube.com/nextinnovator)** for **[Gerai Cerdas](https://geraicerdas.com)**, with contributions from the open source community. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.*
+*Designed by **[Insan Sains](https://www.youtube.com/insansains)** for **[Gerai Cerdas](https://geraicerdas.com)**, with contributions from the open source community. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.*
